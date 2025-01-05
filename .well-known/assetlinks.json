@@ -1,0 +1,14 @@
+[
+  {
+    "relation": [
+      "delegate_permission/common.handle_all_urls"
+    ],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.example.chally_flutter",
+      "sha256_cert_fingerprints": [
+        "96:06:62:DF:74:D3:98:2A:BD:52:FF:8B:FC:3D:38:95:CF:3B:DE:F7:A9:7D:3D:6A:7B:FF:24:ED:4C:6E:C2:E3"
+      ]
+    }
+  }
+]
